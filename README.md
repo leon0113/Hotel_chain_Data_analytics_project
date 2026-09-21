@@ -135,11 +135,5 @@ Make sure the `datasets/` folder sits next to the notebook, since the file paths
 - Build an interactive dashboard (Power BI, Tableau, or Streamlit) on top of the merged dataset
 - Extend the visualizations with Seaborn or Plotly, including time-series trends
 
----
-
-## 👤 Author
-
-**<Your Name>**
-📧 <your-email> · 💼 [LinkedIn](https://linkedin.com/in/<your-profile>) · 🐙 [GitHub](https://github.com/<your-username>)
 
 *Feedback and suggestions are welcome. Feel free to open an issue or reach out.*
